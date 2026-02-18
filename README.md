@@ -1,37 +1,77 @@
-## Hi there 👋![IMG_20250804_091826](https://github.com/user-attachments/assets/a579d511-e7d5-4ba1-85ab-3b5c61f62f37)
+<!-- Banner Image -->
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 
+<h1 align="center">Hi there! 🚀</h1>
+<h2 align="center">I'm Jayaprakash Samineni</h2>
+<h3 align="center">Data Analyst | Finance Domain</h3>
 
-## Data Analyst | SQL Server | Excel | Tableau | Python
-
-Welcome to my GitHub profile! I am a passionate Data Analyst with hands-on experience in data analysis, reporting, and dashboard development. I enjoy transforming raw data into meaningful insights that help businesses make better decisions.
+<p align="center">
+  <b>SQL • Tableau • Power BI • Python</b>
+</p>
 
 ---
 
-## 🛠️ Tools & Technologies
+## 👨‍💻 About Me
 
-- Statistics
-- SQL Server
-- Microsoft Excel
-- Tableau
-- Power Bi
-- Python (Pandas, NumPy)
-- Python (Dash,Plotly)
-- Smartsheet (project management)
-- Data Cleaning
-- Data Visualization
-- Dashboard Development
+- 📊 Data Analyst @ Technoboost Services  
+- 📍 Bengaluru, India  
+- 💼 Finance & Data Enthusiast  
+- 📈 Passionate about turning data into insights  
 
-## 📊 What I Do
+---
 
-- Analyze business data to identify trends and patterns
-- Create dashboards and reports using Tableau and Excel
-- Write SQL queries to extract and manipulate data
-- Automate reporting processes
-- Improve data quality and accuracy
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=powerbi" />
+<img src="https://skillicons.dev/icons?i=tableau" />
+<img src="https://skillicons.dev/icons?i=excel" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats (Live)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayaprakash-samineni-4751aa246/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   
-## 🎯 Career Goal
+  <a href="mailto:jayaprakashsamineni2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-My goal is to become an advanced Data Analyst and contribute to data-driven decision-making in organizations.
+---
 
+## 🚀 Current Focus
+- Advanced Finance Dashboards  
+- End-to-End Data Projects  
+- Python Automation  
+- SQL Optimization  
 
-⭐ Thank you for visiting my profile!
+---
+
+⭐ *Turning Data into Decisions*
