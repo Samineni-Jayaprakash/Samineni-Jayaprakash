@@ -32,7 +32,7 @@
 ## 👨‍💻 About Me
 
 <p align="center" style="font-size: 1.1em;">
-  I am a <b>Data Analyst</b> who genuinely enjoys working with data and understanding the story behind the numbers.
+  I am a <b style="color:#FF6A00;">Data Analyst</b> who genuinely enjoys working with data and understanding the story behind the numbers.
 </p>
 
 <p align="center" style="font-size: 1.1em;">
@@ -40,7 +40,7 @@
 </p>
 
 <p align="center" style="font-size: 1.1em;">
-  For me, good analysis is not just about tools — it’s about clarity, impact, and continuous learning.
+  For me, <b style="color:#FF6A00;">good analysis</b> is not just about tools — it’s about clarity, impact, and continuous learning.
 </p>
 
 ---
@@ -92,8 +92,11 @@
 </p>
 
 <p align="center">
-  <font size="5"><b>Thank you for visiting my GitHub!</b></font><br>
-  <font size="3"><i>I'm always open to discussing new projects or data insights.</i></font>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=700&size=20&pause=1000&color=FF6A00&center=true&vCenter=true&width=800&lines=Thank+you+for+visiting+my+GitHub!" />
+</p>
+
+<p align="center">
+  <i style="font-size: 1.1em;">I'm always open to discussing new projects or data insights.</i>
 </p>
 
 <p align="center">
@@ -103,5 +106,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/action/type?&color=FF6A00&text=See%20you%20soon!&size=20&center=true&height=50" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/action/type?&color=FF6A00&text=See%20you%20soon!&size=20&center=true&height=50"/>
 </p>
