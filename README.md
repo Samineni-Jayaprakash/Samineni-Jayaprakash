@@ -15,12 +15,12 @@
 </h2>
 
 <h3 align="center">
-  Data Analyst | Finance Domain
+  Data Analyst
 </h3>
 
 <p align="center">
   <b style="color:#FF6A00;">
-    SQL • Tableau • Power BI • Python • Plotly Dash • Excel • Smartsheet • SQL Server
+  • SQL Server • Tableau • Power BI • Python • Plotly • Dash • Excel • Smartsheet 
   </b>
 </p>
 
@@ -31,7 +31,7 @@
 <!-- ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF6A00&size=26&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Clarity;Finance+Focused+Data+Analyst;Dashboard+Builder;SQL+%7C+Power+BI+%7C+Tableau+%7C+Python" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF6A00&size=26&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Clarity;Data+Analyst;Dashboard+Builder;SQL+%7C+Power+BI+%7C+Tableau+%7C+Python" />
 </p>
 
 ---
@@ -48,13 +48,13 @@ For me, good analysis isn’t just about tools — it’s about clarity, impact,
 
 <p align="center">
 
-<img src="https://cdn.simpleicons.org/microsoftpowerbi/FF6A00" height="50"/>
-<img src="https://cdn.simpleicons.org/tableau/FF6A00" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-<img src="https://cdn.simpleicons.org/plotly/FF6A00" height="50"/>
-<img src="https://cdn.simpleicons.org/microsoftexcel/FF6A00" height="50"/>
-<img src="https://cdn.simpleicons.org/smartsheet/FF6A00" height="50"/>
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/FF6A00" height="50"/>
+<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=FF6A00"/>
+<img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=FF6A00"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF6A00"/>
+<img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=FF6A00"/>
+<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=FF6A00"/>
+<img src="https://img.shields.io/badge/Smartsheet-000000?style=for-the-badge&logo=smartsheet&logoColor=FF6A00"/>
+<img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF6A00"/>
 
 </p>
 
