@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there 👋![IMG_20250804_091826](https://github.com/user-attachments/assets/a579d511-e7d5-4ba1-85ab-3b5c61f62f37)
 
-<# Hi, I'm Jaya 👋
 
 ## Data Analyst | SQL Server | Excel | Tableau | Python
 
@@ -10,16 +9,17 @@ Welcome to my GitHub profile! I am a passionate Data Analyst with hands-on exper
 
 ## 🛠️ Tools & Technologies
 
+- Statistics
 - SQL Server
 - Microsoft Excel
 - Tableau
+- Power Bi
 - Python (Pandas, NumPy)
-- Smartsheet
+- Python (Dash,Plotly)
+- Smartsheet (project management)
 - Data Cleaning
 - Data Visualization
 - Dashboard Development
-
----
 
 ## 📊 What I Do
 
@@ -28,32 +28,10 @@ Welcome to my GitHub profile! I am a passionate Data Analyst with hands-on exper
 - Write SQL queries to extract and manipulate data
 - Automate reporting processes
 - Improve data quality and accuracy
-
----
-
-## 📁 My Projects
-
-You will find projects related to:
-
-- SQL Data Analysis
-- Excel Dashboards
-- Tableau Dashboards
-- Data Cleaning Projects
-- Automation Projects
-
----
-
+  
 ## 🎯 Career Goal
 
 My goal is to become an advanced Data Analyst and contribute to data-driven decision-making in organizations.
 
----
-
-## 📫 Connect with me
-
-- LinkedIn: https://linkedin.com/in/your-link
-- GitHub: https://github.com/your-username
-
----
 
 ⭐ Thank you for visiting my profile!
