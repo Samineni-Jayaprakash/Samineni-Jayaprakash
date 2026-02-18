@@ -7,8 +7,7 @@
 </p>
 
 <h2 align="center" style="border-bottom: none;">
-  <b>Data Analyst</b><br>
-  <i style="font-size: 0.8em; color: #555;">Turning Data Into Clarity</i>
+  <i style="font-size: 0.8em; color: #555;">Data Analyst | Turning Data Into Clarity</i>
 </h2>
 
 ---
@@ -20,10 +19,8 @@
       <p align="left" style="margin: 0; font-family: 'Segoe UI', Tahoma, sans-serif; line-height: 1.6;">
         <span style="color: #FFFFFF;">🌱 I am currently enhancing my skills in </span><b style="color:#FF6A00;">Python for Dashboard Development</b>.<br>
         <span style="color: #FFFFFF;">🌱 I am also expanding my expertise in </span><b style="color:#FF6A00;">Databricks</b>.<br>
-        <span style="color: #FFFFFF;">👨‍💻 All of my professional projects can be found at </span><b style="color:#FF6A00;">https://github.com/jayaprakashsamineni</b>.<br>
         <span style="color: #FFFFFF;">💬 Feel free to ask me about </span><b style="color:#FF6A00;">Data Analysis</b><span style="color: #FFFFFF;"> and best practices in BI.</span><br>
         <span style="color: #FFFFFF;">📫 You can reach me at </span><b style="color:#FF6A00;">jayaprakashsamineni2001@gmail.com</b>.<br>
-        <span style="color: #FFFFFF;">⚡ Fun fact: </span><b style="color:#FF6A00;">I bring humor to my presentations 😁</b>
       </p>
     </td>
   </tr>
