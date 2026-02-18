@@ -1,16 +1,59 @@
 ## Hi there 👋
 
-<!--
-**Samineni-Jayaprakash/Samineni-Jayaprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<# Hi, I'm Jaya 👋
 
-Here are some ideas to get you started:
+## Data Analyst | SQL Server | Excel | Tableau | Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I am a passionate Data Analyst with hands-on experience in data analysis, reporting, and dashboard development. I enjoy transforming raw data into meaningful insights that help businesses make better decisions.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- SQL Server
+- Microsoft Excel
+- Tableau
+- Python (Pandas, NumPy)
+- Smartsheet
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
+
+---
+
+## 📊 What I Do
+
+- Analyze business data to identify trends and patterns
+- Create dashboards and reports using Tableau and Excel
+- Write SQL queries to extract and manipulate data
+- Automate reporting processes
+- Improve data quality and accuracy
+
+---
+
+## 📁 My Projects
+
+You will find projects related to:
+
+- SQL Data Analysis
+- Excel Dashboards
+- Tableau Dashboards
+- Data Cleaning Projects
+- Automation Projects
+
+---
+
+## 🎯 Career Goal
+
+My goal is to become an advanced Data Analyst and contribute to data-driven decision-making in organizations.
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: https://linkedin.com/in/your-link
+- GitHub: https://github.com/your-username
+
+---
+
+⭐ Thank you for visiting my profile!
