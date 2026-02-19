@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center" style="border-bottom: none; margin-top: 10px;">
-   style="font-size: 0.9em; color: #555;">𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 | 𝗧𝘂𝗿𝗻𝗶𝗻𝗴 𝗗𝗮𝘁𝗮 𝗜𝗻𝘁𝗼 𝗖𝗹𝗮𝗿𝗶𝘁𝘆
+  𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 | 𝗧𝘂𝗿𝗻𝗶𝗻𝗴 𝗗𝗮𝘁𝗮 𝗜𝗻𝘁𝗼 𝗖𝗹𝗮𝗿𝗶𝘁𝘆
 </h1>
 
 ---
