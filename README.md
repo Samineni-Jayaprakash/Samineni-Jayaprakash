@@ -97,10 +97,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jayaprakash-samineni-4751aa246/">
-    <img src="https://img.shields.io/badge/𝗦𝗵𝗼𝗼𝘁 𝗺𝗲 𝗺𝗲𝘀𝘀𝗮𝗴𝗲 𝗼𝗻 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻?style=for-the-badge&logo=linkedin&logoColor=FF6A00&labelColor=000000" alt="LinkedIn Message" />
+    <img src="https://img.shields.io/badge/𝗦𝗵𝗼𝗼𝘁%20𝗺𝗲%20𝗮%20𝗺𝗲𝘀𝘀𝗮𝗴𝗲%20𝗼𝗻%20𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻-000000?style=for-the-badge&logo=linkedin&logoColor=FF6A00&labelColor=000000" alt="LinkedIn Message" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/action/type?&color=FF6A00&text=𝗦𝗲𝗲+𝘆𝗼𝘂+𝘀𝗼𝗼𝗻!&size=20&center=true&height=50"/>
 </p>
