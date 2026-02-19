@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center" style="border-bottom: none; margin-top: 10px;">
-  <i style="font-size: 0.9em; color: #555;">𝗗𝗮𝘁𝗮+𝗔𝗻𝗮𝗹𝘆𝘀𝘁+|+𝗧𝘂𝗿𝗻𝗶𝗻𝗴+𝗗𝗮𝘁𝗮+𝗜𝗻𝘁𝗼+𝗖𝗹𝗮𝗿𝗶𝘁𝘆</i>
+  <i style="font-size: 0.9em; color: #555;">𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁|+𝗧𝘂𝗿𝗻𝗶𝗻𝗴 𝗗𝗮𝘁𝗮 𝗜𝗻𝘁𝗼 𝗖𝗹𝗮𝗿𝗶𝘁𝘆</i>
 </h1>
 
 ---
@@ -29,7 +29,7 @@
 
 ---
 
-<h2 align="center">👨‍💻 𝗔𝗯𝗼𝘂𝘁+𝗠𝗲</h2>
+<h2 align="center">👨‍💻 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲</h2>
 
 <p align="center" style="font-size: 1.1em;">
   I am a <b style="color:#FF6A00;">Data Analyst</b> who genuinely enjoys working with data and understanding the story behind the numbers.
@@ -45,7 +45,7 @@
 
 ---
 
-<h2 align="center">💻 𝗧𝗲𝗰𝗵+𝗦𝘁𝗮𝗰𝗸</h2>
+<h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
@@ -62,7 +62,7 @@
 
 ---
 
-<h2 align="center">🚀 𝗖𝘂𝗿𝗿𝗲𝗻𝘁+𝗙𝗼𝗰𝘂𝘀</h2>
+<h2 align="center">🚀 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀</h2>
 
 <ul style="list-style-type: none; padding-left: 0; text-align: center;">
   <li>📊 Dashboard Development</li>
@@ -74,7 +74,7 @@
 
 ---
 
-<h2 align="center">🌐 𝗖𝗼𝗻𝗻𝗲𝗰𝘁+𝗪𝗶𝘁𝗵+𝗠𝗲</h2>
+<h2 align="center">🌐 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jayaprakash-samineni-4751aa246/">
@@ -93,6 +93,12 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=700&size=20&pause=1000&color=FF6A00&center=true&vCenter=true&width=800&lines=𝗧𝗵𝗮𝗻𝗸+𝘆𝗼𝘂+𝗳𝗼𝗿+𝘃𝗶𝘀𝗶𝘁𝗶𝗻𝗴+𝗺𝘆+𝗚𝗶𝘁𝗛𝘂𝗯!" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayaprakash-samineni-4751aa246/">
+    <img src="https://img.shields.io/badge/𝗦𝗵𝗼𝗼𝘁%20𝗺𝗲%20𝗮%20𝗺𝗲𝘀𝘀𝗮𝗴𝗲%20𝗼𝗻%20𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻-000000?style=for-the-badge&logo=linkedin&logoColor=FF6A00&labelColor=000000" alt="LinkedIn Message" />
+  </a>
 </p>
 
 <p align="center">
