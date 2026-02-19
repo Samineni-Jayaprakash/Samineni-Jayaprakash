@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=30&pause=1000&color=FF6A00&center=true&vCenter=true&width=800&lines=Hey+Everyone+👋;I'm+Jayaprakash+Samineni" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=30&pause=1000&color=FF6A00&center=true&vCenter=true&width=800&lines=𝖧𝖾𝗒+𝖤𝗏𝖾𝗋𝗒𝗈𝗇𝖾+👋;𝖨'𝗆+𝖩𝖺𝗒𝖺𝗉𝗋𝖺𝗄𝖺𝗌𝗁+𝖲𝖺𝗆𝗂𝗇𝖾𝗇𝗂" />
 </p>
 
 <h2 align="center" style="border-bottom: none;">
-  <i style="font-size: 0.8em; color: #555;">Data Analyst | Turning Data Into Clarity</i>
+  <i style="font-size: 0.8em; color: #555;">𝖣𝖺𝗍𝖺+𝖠𝗇𝖺𝗅𝗒𝗌𝗍+|+𝖳𝗎𝗋𝗇𝗂𝗇𝗀+𝖣𝖺𝗍𝖺+𝖨𝗇𝗍𝗈+𝖢𝗅𝖺𝗋𝗂𝗍𝗒</i>
 </h2>
 
 ---
@@ -29,7 +29,7 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">𝖬𝖺𝗍𝗁+𝖲𝖺𝗇𝗌+𝖡𝗈𝗅𝖽+𝖠𝖻𝗈𝗎𝗍+𝖬𝖾</h2>
 
 <p align="center" style="font-size: 1.1em;">
   I am a <b style="color:#FF6A00;">Data Analyst</b> who genuinely enjoys working with data and understanding the story behind the numbers.
@@ -39,13 +39,9 @@
   I specialize in finance analytics, building clear dashboards and practical solutions that help teams make better decisions.
 </p>
 
-<p align="center" style="font-size: 1.1em;">
-  For me, <b style="color:#FF6A00;">good analysis</b> is not just about tools — it’s about clarity, impact, and continuous learning.
-</p>
-
 ---
 
-## 💻 Tech
+<h2 align="center">𝖳𝖾𝖼𝗁+𝖲𝗍𝖺𝖼𝗄</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
@@ -53,28 +49,21 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=dash&logoColor=white" alt="Dash" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Smartsheet-1A9ED9?style=for-the-badge&logo=smartsheet&logoColor=white" alt="Smartsheet" />
-</p>
 
 ---
 
-## 🚀 Current Focus
+<h2 align="center">𝖢𝗎𝗋𝗋𝖾𝗇𝗍+𝖥𝗈𝖼𝗎𝗌</h2>
 
 <ul style="list-style-type: none; padding-left: 0; text-align: center;">
   <li>📊 Dashboard Development</li>
   <li>💡 Business Intelligence Solutions</li>
   <li>⚙️ Python Automation & Data Processing</li>
   <li>🔍 SQL Performance Optimization</li>
-  <li>📈 Plotly Dash Applications</li>
 </ul>
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">𝖢𝗈𝗇𝗇𝖾𝖼𝗍+𝖶𝗂𝗍𝗁+𝖬𝖾</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jayaprakash-samineni-4751aa246/">
@@ -88,23 +77,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=700&size=20&pause=1000&color=FF6A00&center=true&vCenter=true&width=800&lines=Thank+you+for+visiting+my+GitHub!" />
-</p>
-
-<p align="center">
-  <i style="font-size: 1.1em;">I'm always open to discussing new projects or data insights.</i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jayaprakash-samineni-4751aa246/">
-    <img src="https://img.shields.io/badge/Shoot%20me%20a%20message%20on%20LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF6A00&labelColor=000000" alt="LinkedIn Message" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/action/type?&color=FF6A00&text=See%20you%20soon!&size=20&center=true&height=50"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=700&size=20&pause=1000&color=FF6A00&center=true&vCenter=true&width=800&lines=𝖳𝗁𝖺𝗇𝗄+𝗒𝗈𝗎+𝖿𝗈𝗋+𝗏𝗂𝗌𝗂𝗍𝗂𝗇𝗀+𝗆𝗒+𝖦𝗂𝗍𝖧𝗎𝖻!" />
 </p>
