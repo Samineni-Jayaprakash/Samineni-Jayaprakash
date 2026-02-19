@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center" style="border-bottom: none; margin-top: 10px;">
-  <i style="font-size: 0.9em; color: #555;">𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 | 𝗧𝘂𝗿𝗻𝗶𝗻𝗴 𝗗𝗮𝘁𝗮 𝗜𝗻𝘁𝗼 𝗖𝗹𝗮𝗿𝗶𝘁𝘆</i>
+   style="font-size: 0.9em; color: #555;">𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 | 𝗧𝘂𝗿𝗻𝗶𝗻𝗴 𝗗𝗮𝘁𝗮 𝗜𝗻𝘁𝗼 𝗖𝗹𝗮𝗿𝗶𝘁𝘆
 </h1>
 
 ---
@@ -93,10 +93,4 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=700&size=20&pause=1000&color=FF6A00&center=true&vCenter=true&width=800&lines=𝗧𝗵𝗮𝗻𝗸+𝘆𝗼𝘂+𝗳𝗼𝗿+𝘃𝗶𝘀𝗶𝘁𝗶𝗻𝗴+𝗺𝘆+𝗚𝗶𝘁𝗛𝘂𝗯!" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jayaprakash-samineni-4751aa246/">
-    <img src="https://img.shields.io/badge/𝗦𝗵𝗼𝗼𝘁%20𝗺𝗲%20𝗮%20𝗺𝗲𝘀𝘀𝗮𝗴𝗲%20𝗼𝗻%20𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻-000000?style=for-the-badge&logo=linkedin&logoColor=FF6A00&labelColor=000000" alt="LinkedIn Message" />
-  </a>
 </p>
