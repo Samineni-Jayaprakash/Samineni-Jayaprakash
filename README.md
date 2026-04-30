@@ -18,7 +18,6 @@
     <td style="background-color: #1a1a1a; padding: 20px; border-radius: 15px; border: none;">
       <p align="left" style="margin: 0; font-family: 'Segoe UI', Tahoma, sans-serif; line-height: 1.6;">
         <span style="color: #FFFFFF;">🌱 I am currently enhancing my skills in </span><b style="color:#FF6A00;">Python for Dashboard Development</b>.<br>
-        <span style="color: #FFFFFF;">🌱 I am also expanding my expertise in </span><b style="color:#FF6A00;">Databricks</b>.<br>
         <span style="color: #FFFFFF;">💬 Feel free to ask me about </span><b style="color:#FF6A00;">Data Analysis</b><span style="color: #FFFFFF;"></span><br>
         <span style="color: #FFFFFF;">📫 You can reach me at </span><b style="color:#FF6A00;">jayaprakashsamineni2001@gmail.com</b>.<br>
       </p>
